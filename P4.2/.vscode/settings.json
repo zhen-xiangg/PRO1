@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "hash_map": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "__bit_reference": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "functional": "cpp",
+        "__locale": "cpp"
+    }
+}

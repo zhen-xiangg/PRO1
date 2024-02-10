@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "functional": "cpp",
+        "__locale": "cpp",
+        "random": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
